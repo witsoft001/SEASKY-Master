@@ -21,7 +21,7 @@
 #1.首先需要找到机械键盘轴体的封装：
 
 
-![](https://i.imgur.com/OlhtD77.jpg)
+![image](image/keybo.JPG)
 #上面是我从淘宝中找的图下面是pcb封装，pcb封装库我直接用的gh60的cherry轴元件库，大多数轴体都是兼容的
 ![image](image/pcblib.png)
 ![image](image/pcb.png)
@@ -45,6 +45,7 @@
 ![image](image/study4.jpg)
 ![image](image/study5.jpg)
 ![image](image/study6.jpg)
+##进入另一个网站[http://builder.swillkb.com/](http://builder.swillkb.com/)
 ![image](image/study7.jpg)
 ![image](image/study8.jpg)
 ![image](image/study9.jpg)
