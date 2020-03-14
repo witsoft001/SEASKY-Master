@@ -78,8 +78,8 @@
 ![image](image/study22.jpg)
 ![image](image/study23.jpg)
 
-
-[https://github.com/SEASKY-Master/SEASKY_DIYer/blob/master/10.0SEASKY%E5%BC%80%E6%BA%90%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98_sch.pdf](https://github.com/SEASKY-Master/SEASKY_DIYer/blob/master/10.0SEASKY%E5%BC%80%E6%BA%90%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98_sch.pdf "机械键盘原理图")
+##开源仓库
+[https://github.com/SEASKY-Master/SEASKY_DIYer/tree/master/10.0%20SEASKY%E5%BC%80%E6%BA%90%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98](https://github.com/SEASKY-Master/SEASKY_DIYer/tree/master/10.0%20SEASKY%E5%BC%80%E6%BA%90%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98)
 
 
 
