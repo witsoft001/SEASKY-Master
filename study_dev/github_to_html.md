@@ -1,15 +1,15 @@
-#github部署网站教程，注意事先准备好index.html文件
-#1.0首先需要注册一个github的账号，我们进到github.com官网点击sign up注册一个账号。
+github部署网站教程，注意事先准备好index.html文件
+1. 首先需要注册一个github的账号，我们进到github.com官网点击sign up注册一个账号。
 
 ![image](image/github0.png)
 
 ![image](image/github1.png)
 
-#2.0注册完成后自己登录就好了，登录后界面如下，当然如果没有创建过仓库好像不是这个界面，所有需要点击右上角加号处，下面的图箭头有点偏了。
+2. 注册完成后自己登录就好了，登录后界面如下，当然如果没有创建过仓库好像不是这个界面，所有需要点击右上角加号处，下面的图箭头有点偏了。
 
 ![image](image/github2.png)
 
-#3.0然后点击new repository进入新建仓库界面
+3. 然后点击new repository进入新建仓库界面
 
 ![image](image/github3.png)
 
@@ -17,11 +17,11 @@
 
 ![image](image/github4.png)
 
-#5.0然后上传文件，我这里显示的是已经上传过了的界面
+5. 然后上传文件，我这里显示的是已经上传过了的界面
 
 ![image](image/github5.png)
 
-#6.0将你的html工程拖到上传区，按如下方式，写好说明即可上传
+6. 将你的html工程拖到上传区，按如下方式，写好说明即可上传
 
 ![image](image/github6.png)
 
@@ -29,7 +29,7 @@
 
 ![image](image/github8.png)
 
-#7.0点击settings，然后一直下滑直至Github Pages，因为网页就是利用github的这个功能，当然github也只能实现一些简单的静态网页，做个人博客再适合不过，按如下图片操作即可
+7. 点击settings，然后一直下滑直至Github Pages，因为网页就是利用github的这个功能，当然github也只能实现一些简单的静态网页，做个人博客再适合不过，按如下图片操作即可
 
 ![image](image/github9.png)
 
@@ -49,7 +49,7 @@
 ![image](image/github14.png)
 
 index.html
-	
+```	
 	<!doctype html>
 	<html>
 	<head>	
@@ -86,7 +86,7 @@ index.html
 	
 	</body>
 	</html>
-
+```
 
 效果如下：
 
