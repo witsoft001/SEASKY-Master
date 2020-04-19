@@ -1,6 +1,6 @@
 **注本博客仅公布自己部分开源的东西，同时个人时间能力有限，因我更关注嵌入式硬件和程序的开发，所以我不会太深入了解网页开发的东西，因此以后网页一般情况下不会做太大更新。**
 
-- **博客网站:[https://seasky-master.github.io/SEASKY-Master/.](https://seasky-master.github.io/SEASKY-Master/.)**
+- **博客网站:[``https://seasky-master.github.io/SEASKY-Master/.``](https://seasky-master.github.io/SEASKY-Master/.)**
 
 开源站点：
 
@@ -10,6 +10,7 @@
 - GITHUB开源项目仓库2 [``https://github.com/SEASKY-Master/BMI088_Master``](https://github.com/SEASKY-Master/BMI088_Master)
   
 ### GITHUB开源项目仓库1:
+
 ---------
 #### 说明:此仓库用于存放一般情况下不会更新的作品，一般来说是硬件``https://github.com/SEASKY-Master/SEASKY_DIYer``
 目录:
@@ -27,9 +28,9 @@
 11. OLED(硬件+软件):[``https://github.com/SEASKY-Master/SEASKY_DIYer/tree/master/11.0%20OLED``](https://github.com/SEASKY-Master/SEASKY_DIYer/tree/master/11.0%20OLED)
 
 ### GITHUB开源项目仓库2:
----------
-#### 说明:本仓库用于高精度六轴姿态传感器BMI088的硬件的软件开源，经过测试可以轻松达到3分钟一度以内的漂移，详细性能见仓库性能测试``https://github.com/SEASKY-Master/BMI088_Master``
 
+---------
+#### 说明:本仓库用于高精度六轴姿态传感器BMI088的硬件的软件开源，经过测试可以轻松达到3分钟一度以内的漂移，详细性能见仓库性能测试。
 
 ### 其它教程:
 1. github网站部署[``https://seasky-master.github.io/SEASKY-Master/studydev/githubs.html``](https://seasky-master.github.io/SEASKY-Master/studydev/githubs.html)
