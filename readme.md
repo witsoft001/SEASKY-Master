@@ -1,3 +1,5 @@
+<img src = "image/seasky1.jpg" width="256" />
+----------
 ***开源作品：***
 
 - GITHUB开源项目仓库1：[``https://github.com/SEASKY-Master/SEASKY_DIYer``](https://github.com/SEASKY-Master/SEASKY_DIYer)
@@ -33,4 +35,3 @@
 ***GITHUB开源项目仓库3：[``https://github.com/SEASKY-Master/keyboard``](https://github.com/SEASKY-Master/keyboard)***
 
 - **说明：此仓库用于SEASKY机械键盘软件和硬件开源，目前硬件已经检验完成，软件已经完成实现普通键盘效果**
-
