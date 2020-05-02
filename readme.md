@@ -7,6 +7,7 @@
 - GITHUB开源项目仓库1：[``https://github.com/SEASKY-Master/SEASKY_DIYer``](https://github.com/SEASKY-Master/SEASKY_DIYer)
 - GITHUB开源项目仓库2：[``https://github.com/SEASKY-Master/BMI088_Master``](https://github.com/SEASKY-Master/BMI088_Master)
 - GITHUB开源项目仓库3：[``https://github.com/SEASKY-Master/keyboard``](https://github.com/SEASKY-Master/keyboard)
+- GITHUB开源项目仓库4：[``https://github.com/SEASKY-Master/SEASKY_K210``](https://github.com/SEASKY-Master/SEASKY_K210)
 
 ---------
 ***GITHUB开源项目仓库1：[``https://github.com/SEASKY-Master/SEASKY_DIYer``](https://github.com/SEASKY-Master/SEASKY_DIYer)***
@@ -37,3 +38,9 @@
 ***GITHUB开源项目仓库3：[``https://github.com/SEASKY-Master/keyboard``](https://github.com/SEASKY-Master/keyboard)***
 
 - **说明：此仓库用于SEASKY机械键盘软件和硬件开源，目前硬件已经检验完成，软件已经完成实现普通键盘效果**
+
+----------
+
+***GITHUB开源项目仓库4：[``https://github.com/SEASKY-Master/SEASKY_K210``](https://github.com/SEASKY-Master/SEASKY_K210)***
+
+- **说明：此仓库用于存放SEASKY-K210 pcb硬件工程，以及修改的百度AI的百度识花模型的demo**
